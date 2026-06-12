@@ -1,6 +1,6 @@
 {
-    "exp_hp": 30,
-    "exp_wisdom": 30,
+    "exp_hp": 37,
+    "exp_wisdom": 37,
     "history": {
         "2026/06/12": [
             {
@@ -39,26 +39,13 @@
             "exp": 30
         }
     ],
-    "completed_today": [
-        {
-            "id": 1781264501,
-            "name": "運動",
-            "exp": 30,
-            "type": "HP"
-        },
-        {
-            "id": 1781264516,
-            "name": "勉強",
-            "exp": 30,
-            "type": "Wisdom"
-        }
-    ],
-    "last_update": "2026/06/12",
+    "completed_today": [],
+    "last_update": "2026/06/13",
     "exp_limit": 200,
-    "today_earned_exp": 60,
+    "today_earned_exp": 0,
     "streak": 0,
     "last_streak_date": "",
     "boss_kills": 0,
     "titles": [],
-    "login_streak": 1
+    "login_streak": 2
 }

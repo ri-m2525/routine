@@ -1252,7 +1252,9 @@ elif st.session_state.screen == "calendar":
 
         st.markdown("###")
 
+    
 
+    if not is_mobile:
         header_cols = st.columns(7)
 
         for i, wd in enumerate(["月", "火", "水", "木", "金", "土", "日"]):
