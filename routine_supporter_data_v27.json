@@ -1,0 +1,64 @@
+{
+    "exp_hp": 30,
+    "exp_wisdom": 30,
+    "history": {
+        "2026/06/12": [
+            {
+                "id": 1781264501,
+                "task": "運動",
+                "type": "HP",
+                "exp": 30,
+                "time": "20:42"
+            },
+            {
+                "id": 1781264516,
+                "task": "勉強",
+                "type": "Wisdom",
+                "exp": 30,
+                "time": "20:42"
+            }
+        ]
+    },
+    "routines": [
+        {
+            "id": 1781264501,
+            "name": "運動",
+            "type": "HP",
+            "frequency": "毎日",
+            "target_val": null,
+            "is_time": false,
+            "exp": 30
+        },
+        {
+            "id": 1781264516,
+            "name": "勉強",
+            "type": "Wisdom",
+            "frequency": "毎日",
+            "target_val": null,
+            "is_time": false,
+            "exp": 30
+        }
+    ],
+    "completed_today": [
+        {
+            "id": 1781264501,
+            "name": "運動",
+            "exp": 30,
+            "type": "HP"
+        },
+        {
+            "id": 1781264516,
+            "name": "勉強",
+            "exp": 30,
+            "type": "Wisdom"
+        }
+    ],
+    "last_update": "2026/06/12",
+    "exp_limit": 200,
+    "today_earned_exp": 60,
+    "streak": 0,
+    "last_streak_date": "",
+    "boss_kills": 0,
+    "titles": [],
+    "login_streak": 1
+}
