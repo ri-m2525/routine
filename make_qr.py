@@ -1,7 +1,7 @@
 import qrcode
 import os
 
-url = "https://routine-khdj6xfuiumnnn7uibanre.streamlit.app/"
+url = "https://routine-khdj6xfuiumnnn7uibanre.streamlit.app/?code=mysecret2026"
 
 img = qrcode.make(url)
 
