@@ -1257,12 +1257,6 @@ elif st.session_state.screen == "calendar":
     if not is_mobile:
         header_cols = st.columns(7)
 
-        for i, wd in enumerate(["月", "火", "水", "木", "金", "土", "日"]):
-            header_cols[i].markdown(
-                f"<div style='text-align:center;font-weight:bold'>{wd}</div>",
-                unsafe_allow_html=True
-            )
-
         for week in month_days:
             cols = st.columns(7)
 
